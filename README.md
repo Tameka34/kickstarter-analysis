@@ -18,7 +18,7 @@ In analyzing the outcomes of campaigns for plays based on goals, I first used an
 ![Outcomes Based on Launch Date](https://github.com/Tameka34/kickstarter-analysis/blob/431711d59a3d7286a91c3f4ef889a88da47bab9b/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-The data needed to be cleaned before it could be used. This required changing some of the datatypes, filtering, and adding some calculated fields. Once the data was cleaned, I did
+The data needed to be cleaned before it could be used. This required changing some of the datatypes, filtering, and adding some calculated fields.
 
 ## Results
 
@@ -28,4 +28,4 @@ The data needed to be cleaned before it could be used. This required changing so
 
 - One particular limitation of this dataset is that is only contains information for campaigns up to 2017, so there is no data within the last 5 years to make comparisons to. There is also no conversion standard for the monetary amounts and all amounts are listed in that country's currency, which would make it difficult if one wanted to compare campaigns from different countries. 
 
-- If I were to do further analysis on the data, I think it would be interesting to see how play campaigns compare to other campaigns, for example plays against musicals. I could create a table comparing the percentage of successful play campaigns to musical campaigns over the years represented in the dataset, then vizualize the reults in a line graph. I would also like to investigate why there is a spike in successful plays in May, and based on percentage if it was really as significant as the numbers make it seem. I could recreate the Outcomes By Launch Date table using percentages, and if the number is still high, look at jsut plays in May and go from there. 
+- If I were to do further analysis on the data, I think it would be interesting to see how play campaigns compare to other campaigns, for example plays against musicals. I could create a table comparing the percentage of successful play campaigns to musical campaigns over the years represented in the dataset, then vizualize the reults in a line graph. I would also like to investigate why there is a spike in successful plays in May, and based on percentage if it was really as significant as the numbers make it seem. I could recreate the Outcomes By Launch Date table using percentages, and if the number is still high, look at just plays in May and go from there. 
