@@ -9,10 +9,14 @@ The purpose of this project was to use data from _Kickstarter_, a crowd-funding 
 ### Analysis of Outcomes Based on Launch Date
 To determine outcomes of campaigns for plays based on their launch date, I first filtered the dataset to only include campaigns under the subcategory of "play" using a pivot table in Excel. Then, using the launch date, I separated the campaigns by month and aggregated total campaigns based on whether they were successful, failed, or canceled. The results are visualized in the chart below. 
 
+[Outcomes Based on Launch Date](https://github.com/Tameka34/kickstarter-analysis/blob/431711d59a3d7286a91c3f4ef889a88da47bab9b/resources/Outcomes_vs_Goals.png)
+
 
 
 ### Analysis of Outcomes Based on Goals
 In analyzing the outcomes of campaigns for plays based on goals, I first used an established scale of goal amounts, which was goals starting or below $1,000.00 and up to and over $50,000.00, broken into increments of $5,000.00. I then counted the number of successful, failed, and canceled campaigns for plays with goal amounts that fell within each range. From there, I determined what percentage each group of successful, failed, and canceled campaigns were of the total campaigns in that goal range. The results of this analysis are charted below.
+
+[Outcomes Based on Goals](https://github.com/Tameka34/kickstarter-analysis/blob/431711d59a3d7286a91c3f4ef889a88da47bab9b/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Challenges and Difficulties Encountered
 The data needed to be cleaned before it could be used. This required changing some of the datatypes, filtering, and adding some calculated fields. Once the data was cleaned, I did
